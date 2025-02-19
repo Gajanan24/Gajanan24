@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Gajanan24
-- 👀 I’m interested in Full stack development.
+- 👀 I’m Full stack developer.
